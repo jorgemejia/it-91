@@ -8,3 +8,7 @@ if(true){
 }
 
 console.log(word);
+
+for(let i = 0; i < 5; i++){
+    console.log('Iteración: ' + i);
+}
