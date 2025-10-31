@@ -15,6 +15,10 @@ for(let i = 0; i < 5; i++){
 
 // Comentario de Carlos 
 
+<<<<<<< HEAD
 // Nuevo Console log
 
 console.log('Hola Mundo');
+=======
+// Comentario de Jorge
+>>>>>>> 331a04f (cambios)
